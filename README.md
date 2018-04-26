@@ -7,7 +7,7 @@ The CSSF identifies seven (7) areas that require protection, along with three (3
 
 1. Protect Your Applications
 2. Protect Your Endpoints
-3. Protect Your Network
+3. Protect Your Networks
 4. Protect Your Servers
 5. Protect Your Data
 6. Protect Your Locations
